@@ -965,7 +965,10 @@ padding: 20px 0;
 .creditos p {
     font-size: 14px;
 }
-
+/* créditos */
+.creditos {
+    height: 90px;
+}
 [data-slide-nav] {
     display: block;
     justify-content: center;
