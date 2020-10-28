@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="far"
+   data-icon="user"
+   class="svg-inline--fa fa-user fa-w-14"
+   role="img"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="user-regular.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.96875"
+     inkscape:cx="422.70968"
+     inkscape:cy="256"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 313.6,304 c -28.7,0 -42.5,16 -89.6,16 -47.1,0 -60.8,-16 -89.6,-16 C 60.2,304 0,364.2 0,438.4 V 464 c 0,26.5 21.5,48 48,48 h 352 c 26.5,0 48,-21.5 48,-48 V 438.4 C 448,364.2 387.8,304 313.6,304 Z M 400,464 H 48 v -25.6 c 0,-47.6 38.8,-86.4 86.4,-86.4 14.6,0 38.3,16 89.6,16 51.7,0 74.9,-16 89.6,-16 47.6,0 86.4,38.8 86.4,86.4 z M 224,288 C 303.5,288 368,223.5 368,144 368,64.499999 303.5,0 224,0 144.5,0 80,64.499999 80,144 c 0,79.5 64.5,144 144,144 z m 0,-240 c 52.9,0 96,43.100001 96,96 0,52.9 -43.1,96 -96,96 -52.9,0 -96,-43.1 -96,-96 0,-52.899999 43.1,-96 96,-96 z"
+     id="path2"
+     style="stroke-width:1;fill:#ff5420;fill-opacity:1" />
+</svg>
