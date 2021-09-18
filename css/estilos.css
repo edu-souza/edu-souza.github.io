@@ -1,6 +1,6 @@
 /*{
     outline: 0.1px solid red;
-}/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+}/*normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
 ========================================================================== */
@@ -687,7 +687,7 @@ transform: scaleX(1);
     justify-content: center;
 }
 .contato, .redes {
-    padding: 50px 0;
+    padding: 60px 0;
 }
 i {
     color: #FF5420;
@@ -711,9 +711,6 @@ i {
 .contact h2 {
     text-align: left;
 }
-.contact {
-    height: 62vh;
-}
 .contato ul a:hover {
     color: #FF5420;
     transition: color 400ms linear;
@@ -724,7 +721,7 @@ i {
 }
 /*==============SOBRE ===========*/
 .cv {
-    width: 940px;
+    width: 70vw;
 }
 .cv h2 {
     text-align: center;
@@ -736,7 +733,6 @@ i {
     background-color: #fff;
 }
 .lang ul li,.idiom ul li {
-    text-align: left;
 }
 .lang h3::after,.idiom h3::after {
     margin: 10px auto;
@@ -746,19 +742,29 @@ i {
 }
 .lang {
     display: flex;
+    flex-wrap: wrap;
 }
 .idiom {
     display: flex;
+    flex-wrap: wrap;
 }
 .lang ul li,.idiom ul li {
     line-height: 50px;
 }
 .tech {
-    flex: 1 0 450px;
+    flex: 1 0 273px;
+    padding: 15px 20px;
+}
+.forms {
+    flex-wrap: wrap;
+    flex: 1 0 273px;
     padding: 15px 20px;
 }
 .certs {
     margin: 40px auto;
+}
+.idiom {
+   display: flex;
 }
 .certs ul li {
     padding-bottom: 30px;
